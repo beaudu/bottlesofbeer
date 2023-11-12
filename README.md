@@ -43,3 +43,5 @@ This more or less useless function is a demonstration of [Matlab](www.mathworks.
 - grammatical and spelling issues are corrected using regular expressions.
 
 If was inspired by the [one program in 1500 variations](https://www.99-bottles-of-beer.net/) project.
+
+For rating and user comments, see also [![View 99 Bottles of Beer lyrics on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://fr.mathworks.com/matlabcentral/fileexchange/154935-99-bottles-of-beer-lyrics).
